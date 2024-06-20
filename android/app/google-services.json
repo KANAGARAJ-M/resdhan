@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898179316329",
+    "project_id": "resdhan-earnings",
+    "storage_bucket": "resdhan-earnings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898179316329:android:f993ed3132ab79ad4580f8",
+        "android_client_info": {
+          "package_name": "com.kaizenapps.resdhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxcDRvH0nOExp0zQA6wkqZxkAiLVJ8Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

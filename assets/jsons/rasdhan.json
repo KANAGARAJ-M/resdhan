@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "ID" : "apps-0001",
+      "name": "Dot Coin",
+      "description": "Earn up $5000+ by tapping the Screen.",
+      "fulldescription": "Tap on the DOT and earn your coins. A little bit later you will be very surprised. Got friends? Invite them to the game. That’s the way you'll both earn even more coins together. That’s all you need to know to get started.",
+      "image": "https://th.bing.com/th?id=OIP.6o8d0d-fr7XkOx26q9ggsgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "link": "https://kanagaraj-m.github.io/",
+      "google-form": "https://docs.google.com/forms/d/e/1FAIpQLSco-2WkE9xTweY90plHEsP_kMC8yDMDO9NgaYrMT0AUptVKWA/viewform?usp=sf_link",
+      "app-link" : "https://t.me/dotcoin_bot?start=r_1078182204",
+      "referal-code": "none",
+      "open-app-button": "Open Telegram",
+      "Submit-form-button": "Submit Form",
+      "steps" : "Step -1: Click openapp button.\nstep -2: Download the Telegram app.\nstep -3: Activate the bot by clicking Start.\nstep -4: Then Click Lets go.\nstep -5: Then Tap the Screen and earn coins to upgrade gears.\nNote : Multi Taps Supported."
+    },
+    {
+      "Id": "telegram-earning-btc-channel-0001",
+      "App-Title": "Dot Coin",
+      "Description": "Earn up $5000+ by tapping the Screen.",
+      "Full-Description": "Tap on the DOT and earn your coins. A little bit later you will be very surprised. Got friends? Invite them to the game. That’s the way you'll both earn even more coins together. That’s all you need to know to get started.",
+      "Image-Link": "https://th.bing.com/th?id=OIP.6o8d0d-fr7XkOx26q9ggsgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "Our-Website-Link": "https://kanagaraj-m.github.io/",
+      "Google-Forn-Link": "https://docs.google.com/forms/d/e/1FAIpQLSco-2WkE9xTweY90plHEsP_kMC8yDMDO9NgaYrMT0AUptVKWA/viewform?usp=sf_link",
+      "Google-Form-Button-Text": "Open Verification",
+      "Referal-Code": "no referal code",
+      "Open-App-Button-Link": "https://t.me/dotcoin_bot?start=r_1078182204",
+      "Open-App-Button-Text": "Open Telegram",
+      "Join-Community-Text": "Join Our Community",
+      "Join-Community-Link": ""
+    }
+    
+  ]
+}

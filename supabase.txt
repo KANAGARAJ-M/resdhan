@@ -1,0 +1,7 @@
+
+project api:
+https://uidosabvqisjiwortswl.supabase.co
+
+api key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVpZG9zYWJ2cWlzaml3b3J0c3dsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTg4NTcyMTgsImV4cCI6MjAzNDQzMzIxOH0.MiPd2k19yhr479T2QngwgaJjX4yoZzv4oNrchQQE9GM
+
+
